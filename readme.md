@@ -32,3 +32,9 @@ docker-compose up --d
 ```sh
 npm run prod
 ```
+
+## Скриншоты
+
+![screenshot](Screenshot_1.jpg "Скриншот")
+![screenshot](Screenshot_2.jpg "Скриншот")
+![screenshot](Screenshot_3.jpg "Скриншот")
